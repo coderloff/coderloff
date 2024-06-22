@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v12/icons/opengl.svg" height="30" alt="opengl logo"  />
+  <img src="https://cdn.simpleicons.org/opengl" height="30" alt="opengl logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="12" />
